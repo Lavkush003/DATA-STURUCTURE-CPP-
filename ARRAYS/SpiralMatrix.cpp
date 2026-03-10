@@ -1,7 +1,7 @@
 
 #include<iostream>
 using namespace std;
-
+ 
 void spiralMatrix(int mat[][4], int n , int m){
     int srow=0, scol=0;
     int erow=n-1, ecol= m-1;
